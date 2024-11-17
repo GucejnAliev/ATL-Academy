@@ -35,6 +35,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Array.executor": "Run",
+    "Application.ArrayMaxAndMin.executor": "Run",
     "Application.Jjjj.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Quvvet.executor": "Run",
