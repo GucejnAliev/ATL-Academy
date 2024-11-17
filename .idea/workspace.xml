@@ -36,6 +36,7 @@
   "keyToString": {
     "Application.Array.executor": "Run",
     "Application.ArrayMaxAndMin.executor": "Run",
+    "Application.ArraySumAverage.executor": "Run",
     "Application.Jjjj.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Quvvet.executor": "Run",
@@ -49,7 +50,7 @@
     "onboarding.tips.debug.path": "C:/Users/Lenovo/ATL-Academy/untitled/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ArrayMaxAndMin">
+  <component name="RunManager" selected="Application.ArraySumAverage">
     <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hometasks.Array" />
       <module name="untitled" />
@@ -76,15 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Jjjj" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jjjj" />
-      <module name="untitled" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task1DoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hometasks.Task1DoWhile" />
+    <configuration name="ArraySumAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hometasks.ArraySumAverage" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -92,6 +86,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Jjjj" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jjjj" />
+      <module name="untitled" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -111,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArraySumAverage" />
         <item itemvalue="Application.ArrayMaxAndMin" />
         <item itemvalue="Application.Array" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.Jjjj" />
-        <item itemvalue="Application.Task1DoWhile" />
       </list>
     </recent_temporary>
   </component>
