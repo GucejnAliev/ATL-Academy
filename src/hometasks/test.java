@@ -1,8 +1,11 @@
+package hometasks;
+
 import java.util.Scanner;
 
-public class Quvvet {
+public class test {
     public static void main(String[] args) {
 
 
     }
 }
+
