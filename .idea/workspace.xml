@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46eab043-797b-40af-adb8-351587e8a5db" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Return.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hometasks/PowerCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hometasks/ReverseName.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,22 +57,9 @@
     "onboarding.tips.debug.path": "C:/Users/Lenovo/ATL-Academy/untitled/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PowerCalculator">
+  <component name="RunManager" selected="Application.ReverseName">
     <configuration name="ArrayAppears" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hometasks.ArrayAppears" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hometasks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArraySumAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hometasks.ArraySumAverage" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -113,13 +99,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReverseName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hometasks.ReverseName" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hometasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseName" />
         <item itemvalue="Application.PowerCalculator" />
         <item itemvalue="Application.Cat" />
         <item itemvalue="Application.Return" />
         <item itemvalue="Application.ArrayAppears" />
-        <item itemvalue="Application.ArraySumAverage" />
       </list>
     </recent_temporary>
   </component>
