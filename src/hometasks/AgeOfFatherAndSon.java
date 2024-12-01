@@ -2,7 +2,7 @@ package hometasks;
 
 import java.util.Scanner;
 
-/*public class AgeOfFatherAndSon {
+public class AgeOfFatherAndSon {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

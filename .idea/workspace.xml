@@ -106,7 +106,7 @@
       <recent name="Interface" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.AgeOfFatherAndSon">
     <configuration name="AgeOfFatherAndSon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hometasks.AgeOfFatherAndSon" />
       <module name="untitled" />
@@ -174,10 +174,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AgeOfFatherAndSon" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.YrMnth" />
         <item itemvalue="Application.BirthDay" />
-        <item itemvalue="Application.AgeOfFatherAndSon" />
         <item itemvalue="Application.Chapter2" />
       </list>
     </recent_temporary>
