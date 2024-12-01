@@ -2,7 +2,7 @@ package hometasks;
 
 import java.util.Scanner;
 
-/*public class YrMnth {
+public class YrMnth {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
