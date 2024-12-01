@@ -2,7 +2,7 @@ package hometasks;
 
 import java.util.Scanner;
 
-public class ArrayMaxAndMin {
+/*public class ArrayMaxAndMin {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

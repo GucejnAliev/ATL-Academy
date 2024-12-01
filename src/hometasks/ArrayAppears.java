@@ -2,7 +2,7 @@ package hometasks;
 
 import java.util.Scanner;
 
-public class ArrayAppears {
+/*public class ArrayAppears {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

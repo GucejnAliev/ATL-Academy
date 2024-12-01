@@ -2,8 +2,8 @@ package hometasks;
 
 import java.util.Scanner;
 
-public class PowerCalculator {
-    public static double power (double base, int exponent) {
+/*public class PowerCalculator {
+    public static double power(double base, int exponent) {
         return Math.pow(base, exponent);
     }
 

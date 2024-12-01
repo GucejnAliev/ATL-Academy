@@ -5,8 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46eab043-797b-40af-adb8-351587e8a5db" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/hometasks/ReverseName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ATL/BankCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ATL/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ATL/InvalidAmountException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ATL/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ATL/PaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ResizedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bank/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bank/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Student/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Student/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hometasks/AgeOfFatherAndSon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hometasks/BirthDay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hometasks/Day.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hometasks/Light.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hometasks/TrafficLight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hometasks/WeekDaySwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hometasks/YrMnth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task/Vehicle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Return.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hometasks/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hometasks/Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hometasks/ArrayAppears.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hometasks/ArrayAppears.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hometasks/ArrayMaxAndMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hometasks/ArrayMaxAndMin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hometasks/ArraySumAverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hometasks/ArraySumAverage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hometasks/PowerCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hometasks/PowerCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hometasks/ReverseName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hometasks/ReverseName.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,12 +45,15 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
@@ -35,31 +67,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Array.executor": "Run",
-    "Application.ArrayAppears.executor": "Run",
-    "Application.ArrayMaxAndMin.executor": "Run",
-    "Application.ArraySumAverage.executor": "Run",
-    "Application.Cat.executor": "Run",
-    "Application.Jjjj.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.PowerCalculator.executor": "Run",
-    "Application.Quvvet.executor": "Run",
-    "Application.Return.executor": "Run",
-    "Application.Sumofoddandevennumbers.executor": "Run",
-    "Application.Task1DoWhile.executor": "Run",
-    "Application.Test1.executor": "Run",
-    "Application.test.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/Lenovo/ATL-Academy/untitled/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AgeOfFatherAndSon.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayAppears.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayMaxAndMin.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArraySumAverage.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BankAccount.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BirthDay.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Cat.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Chapter2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Jjjj.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PowerCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Quvvet.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Return.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseName.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sumofoddandevennumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task1DoWhile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TrafficLight.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WeekDaySwitch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.YrMnth.executor&quot;: &quot;Run&quot;,
+    &quot;Application.main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.task.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Lenovo/ATL-Academy/untitled/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.ReverseName">
-    <configuration name="ArrayAppears" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hometasks.ArrayAppears" />
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ATL" />
+      <recent name="Interface" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="AgeOfFatherAndSon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hometasks.AgeOfFatherAndSon" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -71,15 +120,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Cat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Cat" />
-      <module name="untitled" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PowerCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hometasks.PowerCalculator" />
+    <configuration name="BirthDay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hometasks.BirthDay" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -91,16 +133,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Return" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Return" />
+    <configuration name="Chapter2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hometasks.Chapter2" />
       <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hometasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hometasks.ReverseName" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ATL.Main" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ATL.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YrMnth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hometasks.YrMnth" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -114,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReverseName" />
-        <item itemvalue="Application.PowerCalculator" />
-        <item itemvalue="Application.Cat" />
-        <item itemvalue="Application.Return" />
-        <item itemvalue="Application.ArrayAppears" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.YrMnth" />
+        <item itemvalue="Application.BirthDay" />
+        <item itemvalue="Application.AgeOfFatherAndSon" />
+        <item itemvalue="Application.Chapter2" />
       </list>
     </recent_temporary>
   </component>
@@ -132,5 +192,16 @@
       <updated>1731412089689</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

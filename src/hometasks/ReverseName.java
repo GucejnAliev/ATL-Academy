@@ -2,7 +2,7 @@ package hometasks;
 
 import java.util.Scanner;
 
-public class ReverseName {
+/*public class ReverseName {
 
     public static String reverseString(String input) {
 
@@ -20,5 +20,4 @@ public class ReverseName {
 
         System.out.println(reversedName);
 
-    }
-}
+    }}
